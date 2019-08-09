@@ -1,0 +1,5 @@
+name = input('請輸入名字:')
+print('嗨', name)
+height = input('please enter your height:')
+weight = input('please enter your weight:')
+print('thanks!', 'your height is', height, 'and your weight is', weight)
